@@ -13,6 +13,6 @@ Gem::Specification.new do |s|
   end
   s.require_paths = ['lib']
 
-  s.add_dependency 'activerecord', '>= 4.2'
+  s.add_dependency 'activerecord', '>= 4.0'
   s.add_dependency 'spree_core'
 end
